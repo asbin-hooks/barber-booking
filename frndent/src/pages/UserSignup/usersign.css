@@ -1,0 +1,25 @@
+.user-sign {
+  width: 100%;
+  height: 100vh;
+  background-image: url('userloging2.jpg');
+  background-size: cover;
+}
+.user-sign1 {
+  width: 480px;
+  height: 420px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  position: relative;
+  top: 145px;
+  left: 425px;
+  box-shadow: 0px 0px 10px 0.5px rgb(83, 83, 83);
+}
+.user-sign1 h1 {
+  margin-left: 180px;
+  color: rgb(147, 147, 147);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.a {
+  box-shadow: 0px 0px 4px 2px rgb(43, 43, 43);
+}

@@ -1,0 +1,40 @@
+.log1 {
+  width: 480px;
+  height: 240px;
+  border: 1px solid black;
+  border-radius: 15px;
+  position: relative;
+  top: 140px;
+  left: 450px;
+}
+.log {
+  width: 100%;
+  height: 100vh;
+  background-image: url('loginimage.jpg');
+  background-size: cover;
+}
+.log1 h1 {
+  margin-left: 180px;
+  color: rgb(255, 166, 0);
+}
+.log-sign {
+  align-items: center;
+  margin-left: 15px;
+  display: flex;
+}
+.but1 {
+  position: relative;
+  left: 350px;
+}
+.sign {
+  height: 30px;
+  border: none;
+}
+.admin-link {
+  text-decoration: none;
+  position: relative;
+  left: 1295px;
+  bottom: 35px;
+  font-size: 18x;
+  color:rgb(131, 55, 55); ;
+}

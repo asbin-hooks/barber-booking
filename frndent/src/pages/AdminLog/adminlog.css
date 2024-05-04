@@ -1,0 +1,25 @@
+.admin-log {
+  width: 100%;
+  height: 100vh;
+  background-image: url('admin log.jpg');
+  background-size: cover;
+}
+.admin-log1 {
+  width: 480px;
+  height: 240px;
+  border: 1px solid black;
+  border-radius: 15px;
+  position: relative;
+  top: 140px;
+  left: 450px;
+}
+.admin-log1 h2 {
+  margin-left: 155px;
+  color: rgb(79, 58, 18);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.admin-log-btn {
+  position: relative;
+  left: 190px;
+}

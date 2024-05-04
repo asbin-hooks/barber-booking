@@ -1,0 +1,30 @@
+.add-employe{
+    width: 100%;
+    height: 100vh;
+    background-image: url('employees.jpg');
+    background-size: cover;
+}
+.add-male{
+    width: 99%;
+    height: 280px;
+    /* border: 1px solid rgb(255, 255, 255); */
+    display: flex;
+    gap: 20px;
+    color: rgb(255, 255, 255);
+}
+.add-female{
+    width: 99%;
+    height: 280px;
+    /* border: 1px solid rgb(255, 255, 255); */
+    display: flex;
+    gap: 20px;
+    color: rgb(255, 255, 255);
+}
+.btn-addemploye{
+    margin-top: 120px;
+    margin-left: 30px;
+}
+.add-male1 img{
+    width: 150px;
+    height: 150px;
+}

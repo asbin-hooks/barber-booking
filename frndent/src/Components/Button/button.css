@@ -1,0 +1,11 @@
+.but {
+  width: 100px;
+  height: 35px;
+  border: 1px solid black;
+  box-shadow: 0px 0px 6px 4px rgb(13, 13, 13);
+  border-radius: 10px;
+  background: none;
+  color: rgb(165, 153, 153);
+  cursor: pointer;
+}
+

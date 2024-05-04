@@ -1,0 +1,18 @@
+.list1{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+}
+.appointment{
+    display: flex;
+}
+.list3{
+    width: 100px;
+}
+.list-btn{
+    display: flex;
+    gap: 20px;
+}

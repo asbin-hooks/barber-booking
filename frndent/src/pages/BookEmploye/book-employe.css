@@ -1,0 +1,31 @@
+.book1{
+    width: 350px;
+    height: 600px;
+    border: 1px solid black;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+.book-input{
+    width: 320px;
+}
+.land-mark{
+    height: 50px;
+    width: 320px;
+}
+.book-selecte{
+    width: 320px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 12px;
+    background: none;
+    color: rgb(165, 153, 153);
+    box-shadow: 0px 0px 6px 4px rgb(13, 13, 13);
+    margin: 14px;
+    box-sizing: border-box;
+    padding-left: 8px;
+    font-size: 13px;
+}
+.book-btn{
+    margin-left: 120px;
+    margin-top: 15px;
+}

@@ -1,0 +1,20 @@
+.prf1{
+    width: 500px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 150px auto;
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px 5px rgb(21, 21, 21);
+    box-sizing: border-box;
+    opacity: 0.8;
+    color: rgb(218, 238, 255);
+    text-align: center;
+
+}
+.prf-book{
+    position: relative;
+    left: 1230px;
+    bottom: 45px;
+    color: brown;
+}

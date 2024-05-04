@@ -1,0 +1,14 @@
+.home {
+  width: 100%;
+  height: 100vh;
+  background-image: url('barber1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+}
+.select-button{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
